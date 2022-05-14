@@ -1,0 +1,59 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_main{
+    border: 1px solid gray;
+    padding-left: 0px;
+    float: none;
+ padding-right: 0px
+}
+.travel_main img{
+    width: 100% ;
+}
+.travel_main hr{
+    width: 230px;
+    
+}
+.travel_main h5, .travel_main p{
+    margin-left: 20px;
+    
+}
+
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px
+}
+.book{
+    cursor: pointer
+        
+}
+.book hr{
+    margin-bottom: 10px
+}
+.modal-content{
+    margin-top: 100px;
+    
+}
+.img-modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10pxz
+}
